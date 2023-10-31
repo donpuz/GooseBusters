@@ -1,1 +1,1 @@
-# GooseBusters
+# GooseBusters project
